@@ -19,6 +19,22 @@ If the logo is in the navigation bar, you will find more logo styles lower down 
     margin-bottom: 20px;
 }
 
+#logo a{
+  color: #FF6F32;
+  font-family: 'Gochi Hand', helvetica, sans-serif;
+text-align: right;
+}
+
+#menu a{
+  font-family: 'Gurajada', serif;
+  font-size: 1.7em;
+  padding: center;
+text-align: center;
+}
+
+
+
+
 
 p{
   line-height: 1.4;
@@ -44,7 +60,9 @@ h1{
 }
 
 h2{
-
+font-family: 'Gurajada', serif;
+font-size: 2.5em;
+color: #FF6F32
 }
 
 h3{
@@ -166,7 +184,7 @@ nav #logo a{
 }
 /* Navigation bar styles */
 .mainNav {
-  background: #00411d;
+  background: #FFEDF7;
   /* Change bar color */
   color:#ffffff;
   /* Text color - For hamburger and company name*/
